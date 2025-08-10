@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @inspi-writer001
-- 👀 I’m interested in Building Blockchain Software Products and tools, Solana, Starknet, Solidity, React, Express, Nodejs
-- 🌱 I’m currently building Onchain Games with Dojo on Starknet.
-- 💞️ I’m looking to collaborate on your awesome Blockchain Projects.
+I Build Blockchain-powered products on @solana
+w/ Rust🦀 and Anchor ⚓️ |
+on Starknet w/ Cairo 🦂 |
+React | Nodejs | Fastify | Honojs | express.js | Typescript.
+Devrel @Superteamng Ekiti.
+Foundr @gildore_on_sol
+student @solanaturbine
+
+For Escrows, Marketplaces, Launchpads, dApps, etc.
 - 📫 Reach me on X - @inspiration_gx
 
 <a href="https://www.potatoesqueezy.xyz/app/profile?user=inspi-writer001" target="_blank" rel="noopener noreferrer">
